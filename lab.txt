@@ -2,3 +2,4 @@ hello world
 lab project 
 using command through vcs
 now on developer branch 
+my conflicts 
